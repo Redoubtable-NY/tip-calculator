@@ -361,6 +361,10 @@ form button{
     border-radius: 0 var(--rounded-corners) var(--rounded-corners) 80px;
   }
 
+  .input-container{
+    min-width: 321px
+  }
+
   main{
     align-self: center;
     grid-template-rows: 1fr;
